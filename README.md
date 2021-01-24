@@ -1,2 +1,0 @@
-# RFT
-RobotFramework Tests
